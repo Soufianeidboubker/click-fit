@@ -3,8 +3,8 @@
 ![Capture d'écran 2025-02-03 231206](https://github.com/user-attachments/assets/fedb0779-d715-4b91-bd2a-b19bc83eed66)
 
 
+![Capture d'écran 2025-02-03 231636](https://github.com/user-attachments/assets/36d1dad4-3267-4c01-9612-eaa91fb67594)
 
-![Uploading Capture d'écran 2025-02-03 231636.png…]()
 
 
 A responsive fitness website with dynamic animations, file upload capabilities, and MySQL integration.
