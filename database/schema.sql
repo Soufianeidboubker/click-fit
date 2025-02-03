@@ -1,7 +1,6 @@
 -- Create database if not exists
 CREATE DATABASE IF NOT EXISTS clickfit
-CHARACTER SET utf8mb4
-COLLATE utf8mb4_unicode_ci;
+CHARACTER SET utf8mb4COLLATE utf8mb4_unicode_ci;
 
 USE clickfit;
 
